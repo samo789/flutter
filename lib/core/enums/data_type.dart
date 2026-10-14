@@ -1,0 +1,1 @@
+enum DataType { int, string, bool, double, stringList }
